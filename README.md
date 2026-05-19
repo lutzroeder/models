@@ -1,6 +1,8 @@
 
 # Models
 
-[gemma3](./gemma3) - A minimal implementation of Gemma 3 in 200 lines only depending on JAX and SentencePiece.
+Minimal implementations of open-weight models:
 
-[gpt2](./gpt2) - A minimal implementation of GPT-2 in 175 lines only depending on PyTorch.
+* [gemma4](./gemma4) - Gemma 4 in 270 lines only depending on JAX and SentencePiece.
+* [gemma3](./gemma3) - Gemma 3 in 200 lines only depending on JAX and SentencePiece.
+* [gpt2](./gpt2) - GPT-2 in 175 lines only depending on PyTorch.
